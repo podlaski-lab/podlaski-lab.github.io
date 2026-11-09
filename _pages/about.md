@@ -8,10 +8,6 @@ profile:
   align: right
   image: net_lab.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,5 +23,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Motivation statement and/or brief description of the lab.
+### Welcome to the NET Lab
+
+The **Neural Engineering & Theory (NET) Lab** is directed by Bill Podlaski and located at the **Center for Neuroscience Imaging Research (CNIR), Institute for Basic Science (IBS)** and the **Department of Brain Science and Engineering at Sungkyunkwan University (SKKU)** in Suwon, Republic of Korea.
+
+### Motivation & Mission
+
+Our mission is to understand the algorithmic and physical principles of brain function and to develop novel engineering interfaces to monitor, decode, and modulate neural circuits. By bridging theoretical computational neuroscience, advanced neuroimaging, and neural recording technologies, we aim to translate fundamental discovery into neuroengineering solutions for clinical and cognitive applications.
 
