@@ -1,0 +1,43 @@
+{% if site.footer_fixed %}
+  <footer class="fixed-bottom" role="contentinfo">
+    <div class="container mt-0 text-center">
+      <!-- Institutional Logos -->
+      <div class="footer-logos d-flex justify-content-center align-items-center flex-wrap gap-4 my-2">
+        <a href="https://www.skku.edu" target="_blank" rel="noopener noreferrer">
+          <img src="{{ '/assets/img/logos/skku.png' | relative_url }}" alt="SKKU" style="height: 36px; max-width: 140px; object-fit: contain;">
+        </a>
+        <a href="https://cnir.ibs.re.kr" target="_blank" rel="noopener noreferrer">
+          <img src="{{ '/assets/img/logos/cnir.png' | relative_url }}" alt="CNIR" style="height: 36px; max-width: 140px; object-fit: contain;">
+        </a>
+        <a href="https://www.ibs.re.kr" target="_blank" rel="noopener noreferrer">
+          <img src="{{ '/assets/img/logos/ibs.png' | relative_url }}" alt="IBS" style="height: 36px; max-width: 140px; object-fit: contain;">
+        </a>
+      </div>
+
+      <!-- Copyright -->
+      &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
+    </div>
+  </footer>
+{% else %}
+  <footer class="sticky-bottom mt-5" role="contentinfo">
+    <div class="container text-center">
+      <!-- Institutional Logos -->
+      <div class="footer-logos d-flex justify-content-center align-items-center flex-wrap gap-4 mb-3">
+        <a href="https://www.skku.edu" target="_blank" rel="noopener noreferrer" class="mx-3">
+          <img src="{{ '/assets/img/logos/skku_logo.jpeg' | relative_url }}" alt="SKKU" style="height: 38px; max-width: 150px; object-fit: contain;">
+        </a>
+        <a href="https://cnir.ibs.re.kr" target="_blank" rel="noopener noreferrer" class="mx-3">
+          <img src="{{ '/assets/img/logos/cnir_logo.png' | relative_url }}" alt="CNIR" style="height: 38px; max-width: 150px; object-fit: contain;">
+        </a>
+        <a href="https://www.ibs.re.kr" target="_blank" rel="noopener noreferrer" class="mx-3">
+          <img src="{{ '/assets/img/logos/ibs_logo.png' | relative_url }}" alt="IBS" style="height: 38px; max-width: 150px; object-fit: contain;">
+        </a>
+      </div>
+
+      <!-- Copyright & Custom Text -->
+      <div class="text-muted small">
+        &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
+      </div>
+    </div>
+  </footer>
+{% endif %}
