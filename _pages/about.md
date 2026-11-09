@@ -2,11 +2,11 @@
 layout: about
 title: home
 permalink: /
-subtitle: Dept. of Brain Science & Engineering (BSE), <a href='https://www.skku.edu/eng/index.do'>Sungkyunkwan University (SKKU)</a>. <a href='https://cnir.ibs.re.kr/html/cnir_en/'>Center for Neuroscience Imaging Research (CNIR), IBS</a>. Suwon, Korea.
+subtitle: Dept. of Brain Science & Engineering (BSE), <a href='https://www.skku.edu/eng/index.do'>SKKU</a>. <a href='https://cnir.ibs.re.kr/html/cnir_en/'>CNIR, IBS</a>. Suwon, Korea.
 
 profile:
   align: right
-  image: net_lab.png
+  image: net_lab.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
