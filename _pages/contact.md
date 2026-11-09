@@ -46,3 +46,17 @@ nav_order: 5
     </div>
   </div>
 </div>
+
+
+<h4 class="mt-4">Connect With Us</h4>
+<div class="d-flex flex-wrap gap-2 mt-2">
+  <a href="https://github.com/your-org" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-dark me-2 mb-2">
+    <i class="fab fa-github"></i> GitHub
+  </a>
+  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-primary me-2 mb-2">
+    <i class="ai ai-google-scholar"></i> Google Scholar
+  </a>
+  <a href="https://twitter.com/your_handle" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-info me-2 mb-2">
+    <i class="fab fa-x-twitter"></i> X (Twitter)
+  </a>
+</div>
