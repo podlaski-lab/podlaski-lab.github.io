@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 <div class="mb-4">
-  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID" target="_blank" class="btn btn-outline-primary btn-sm">
+  <a href="https://scholar.google.com/citations?user=37n2zf4AAAAJ" target="_blank" class="btn btn-outline-primary btn-sm">
     <i class="ai ai-google-scholar"></i> View Full Google Scholar Profile
   </a>
 </div>
@@ -17,3 +17,4 @@ nav_order: 2
 <div class="publications">
   {% bibliography %}
 </div>
+
