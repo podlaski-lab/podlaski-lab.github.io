@@ -6,7 +6,7 @@ subtitle: Dept. of Brain Science & Engineering (BSE), <a href='https://www.skku.
 
 profile:
   align: right
-  image: net-lab.png
+  image: net_lab.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
