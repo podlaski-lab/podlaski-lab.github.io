@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='#'>Sungkyunkwan University (SKKU)</a>. <a href='#'>Center for Neuroscience Imaging Research (CNIR)</a>. Address. Contacts. Motto. Etc.
+subtitle: Dept. of Brain Science & Engineering (BSE), <a href='https://www.skku.edu/eng/index.do'>Sungkyunkwan University (SKKU)</a>. <a href='https://cnir.ibs.re.kr/html/cnir_en/'>Center for Neuroscience Imaging Research (CNIR), IBS</a>. Suwon, Korea.
 
 profile:
   align: right
