@@ -7,56 +7,54 @@ nav: true
 nav_order: 5
 ---
 
-<div class="row">
-  <div class="col-md-6">
-    <h3>Office & Lab Location</h3>
-    <p>
-      <strong>Neural Engineering & Theory (NET) Lab</strong><br>
-      N-Center, Sungkyunkwan University (Natural Sciences Campus)<br>
-      2066 Seobu-ro, Jangan-gu, Suwon-si, Gyeonggi-do, 16419<br>
-      Republic of Korea
-    </p>
+### Contact Information
 
-    <h4 class="mt-4">Inquiries</h4>
-    <p>
-      <strong>Email:</strong> <a href="mailto:your-email@skku.edu">your-email@skku.edu</a><br>
-      <strong>Phone:</strong> +82-31-299-XXXX<br>
-      <strong>Affiliations:</strong>
-      <ul>
-        <li><a href="https://bseng.skku.edu/" target="_blank">Dept. of Brain Science and Engineering, SKKU</a></li>
-        <li><a href="https://cnir.ibs.re.kr/" target="_blank">Center for Neuroscience Imaging Research (CNIR), IBS</a></li>
-      </ul>
-    </p>
+* **Email:** [wf.podlaski@skku.edu](mailto:wf.podlaski@skku.edu)
+* **Office:** Room 86507 (5th Floor), N-Center, Sungkyunkwan University
+* **Bluesky:** [@billpod.bsky.social](https://bsky.app/profile/billpod.bsky.social)
+
+---
+
+### Address & Visiting the Lab
+
+#### Addresses  
+
+N Center (Bldg A)
+Center for Neuroscience Imaging Research (CNIR)
+Sungkyunkwan University (Natural Sciences Campus)
+2066 Seobu-ro, Jangan-gu, Suwon-si, Gyeonggi-do, 16419, Republic of Korea
+
+[16419] 경기도 수원시 장안구 서부로 2066 성균관대학교 자연과학캠퍼스 뇌과학이미징연구단 N센터 A동 5층 로비 안내데스크
+
+---
+
+#### Getting Here
+
+* **By Subway:** Take Seoul Subway **Line 1 (Gyeongbu Line)** to **Sungkyunkwan University Station (성균관대역)**, Exit 2. The N-Center is a 10–15 minute walk across campus, or a 3-minute taxi ride from the station exit.
+* **By Car / Taxi:** Search for **"성균관대학교 자연과학캠퍼스 N센터"** or **"N-Center SKKU"** in KakaoMap, TMAP, or Naver Maps. Visitor parking is available in the underground lots adjacent to the N-Center.
+
+---
+
+#### The N-Center
+
+<div class="row my-4">
+  <!-- Building Photo -->
+  <div class="col-md-6 mb-3">
+    <img src="/assets/img/n_center.jpg" class="img-fluid rounded border shadow-sm" alt="N-Center Building, SKKU" style="width: 100%; height: 350px; object-fit: cover;">
+    <small class="text-muted d-block text-center mt-1">N-Center, Natural Sciences Campus</small>
   </div>
-
-  <div class="col-md-6">
-    <h3>Map</h3>
-    <!-- Embedded Google Map centered on N-Center SKKU Suwon -->
-    <div class="embed-responsive embed-responsive-4by3 rounded z-depth-1">
-      <iframe 
-        class="embed-responsive-item"
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3174.526978430634!2d126.97232237648358!3d37.29528694034874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b43a9d949437b%3A0x6b4db303102ceaa!2sN-Center!5e0!3m2!1sen!2skr!4v1700000000000!5m2!1sen!2skr" 
-        width="100%" 
-        height="320" 
-        style="border:0;" 
-        allowfullscreen="" 
-        loading="lazy" 
-        referrerpolicy="no-referrer-when-downgrade">
-      </iframe>
-    </div>
+  
+  <!-- Embedded Google Map pinned to N-Center -->
+  <div class="col-md-6 mb-3">
+    <iframe 
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3174.5520921471714!2d126.9723223765103!3d37.29388334039868!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b425ef870a6c3%3A0x6b77e8011c20579e!2sN-Center!5e0!3m2!1sen!2skr!4v1700000000000!5m2!1sen!2skr" 
+      width="100%" 
+      height="350" 
+      style="border: 0; border-radius: 4px;" 
+      allowfullscreen="" 
+      loading="lazy" 
+      referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+    <small class="text-muted d-block text-center mt-1"><a href="https://maps.app.goo.gl/9uB1R3fB3t4V1t4H7" target="_blank">Open in Google Maps ↗</a></small>
   </div>
-</div>
-
-
-<h4 class="mt-4">Connect With Us</h4>
-<div class="d-flex flex-wrap gap-2 mt-2">
-  <a href="https://github.com/your-org" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-dark me-2 mb-2">
-    <i class="fab fa-github"></i> GitHub
-  </a>
-  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-primary me-2 mb-2">
-    <i class="ai ai-google-scholar"></i> Google Scholar
-  </a>
-  <a href="https://twitter.com/your_handle" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-info me-2 mb-2">
-    <i class="fab fa-x-twitter"></i> X (Twitter)
-  </a>
 </div>
