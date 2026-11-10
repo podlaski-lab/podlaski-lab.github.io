@@ -1,38 +1,41 @@
 
 @article{gonccalves2020training,
-  title={Training deep neural density estimators to identify mechanistic models of neural dynamics},
+  title={<a href="https://elifesciences.org/articles/56261">Training deep neural density estimators to identify mechanistic models of neural dynamics</a>},
   author={Gon{\c{c}}alves, Pedro J and Lueckmann, Jan-Matthis and Deistler, Michael and Nonnenmacher, Marcel and {\"O}cal, Kaan and Bassetto, Giacomo and Chintaluri, Chaitanya and Podlaski, William F and Haddad, Sara A and Vogels, Tim P and others},
   journal={elife},
   volume={9},
   pages={e56261},
   year={2020},
-  publisher={eLife Sciences Publications, Ltd}
+  publisher={eLife Sciences Publications, Ltd},
+  pdf={2020_goncalves_training.pdf},
+  abstract={Mechanistic modeling in neuroscience aims to explain observed phenomena in terms of underlying causes. However, determining which model parameters agree with complex and stochastic neural data presents a significant challenge. We address this challenge with a machine learning tool which uses deep neural density estimators—trained using model simulations—to carry out Bayesian inference and retrieve the full space of parameters compatible with raw data or selected data features. Our method is scalable in parameters and data features and can rapidly analyze new data after initial training. We demonstrate the power and flexibility of our approach on receptive fields, ion channels, and Hodgkin–Huxley models. We also characterize the space of circuit configurations giving rise to rhythmic activity in the crustacean stomatogastric ganglion, and use these results to derive hypotheses for underlying compensation mechanisms. Our approach will help close the gap between data-driven and theory-driven models of neural dynamics.}
 }
 
 @article{podlaski2017mapping,
-  title={Mapping the function of neuronal ion channels in model and experiment},
+  title={<a href="https://elifesciences.org/articles/22152">Mapping the function of neuronal ion channels in model and experiment</a>},
   author={Podlaski, William F and Seeholzer, Alexander and Groschner, Lukas N and Miesenb{\"o}ck, Gero and Ranjan, Rajnish and Vogels, Tim P},
   journal={Elife},
   volume={6},
   pages={e22152},
   year={2017},
-  publisher={eLife Sciences Publications, Ltd}
+  publisher={eLife Sciences Publications, Ltd},
+  pdf={2017_podlaski_mapping.pdf},
+  abstract={Ion channel models are the building blocks of computational neuron models. Their biological fidelity is therefore crucial for the interpretation of simulations. However, the number of published models, and the lack of standardization, make the comparison of ion channel models with one another and with experimental data difficult. Here, we present a framework for the automated large-scale classification of ion channel models. Using annotated metadata and responses to a set of voltage-clamp protocols, we assigned 2378 models of voltage- and calcium-gated ion channels coded in NEURON to 211 clusters. The IonChannelGenealogy (ICGenealogy) web interface provides an interactive resource for the categorization of new and existing models and experimental recordings. It enables quantitative comparisons of simulated and/or measured ion channel kinetics, and facilitates field-wide standardization of experimentally-constrained modeling.}
 }
 
 @article{podlaski2020biological,
-  title={Biological credit assignment through dynamic inversion of feedforward networks},
+  title={<a href="https://proceedings.neurips.cc/paper_files/paper/2020/hash/7261925973c9bf0a74d85ae968a57e5f-Abstract.html">Biological credit assignment through dynamic inversion of feedforward networks</a>},
   author={Podlaski, William F and Machens, Christian K},
   journal={Advances in Neural Information Processing Systems},
   volume={33},
   pages={10065--10076},
   year={2020},
-  doi={https://proceedings.neurips.cc/paper_files/paper/2020/hash/7261925973c9bf0a74d85ae968a57e5f-Abstract.html},
   pdf={https://proceedings.neurips.cc/paper_files/paper/2020/file/7261925973c9bf0a74d85ae968a57e5f-Paper.pdf},
   abstract={Learning depends on changes in synaptic connections deep inside the brain. In multilayer networks, these changes are triggered by error signals fed back from the output, generally through a stepwise inversion of the feedforward processing steps. The gold standard for this process --- backpropagation --- works well in artificial neural networks, but is biologically implausible. Several recent proposals have emerged to address this problem, but many of these biologically-plausible schemes are based on learning an independent set of feedback connections. This complicates the assignment of errors to each synapse by making it dependent upon a second learning problem, and by fitting inversions rather than guaranteeing them. Here, we show that feedforward network transformations can be effectively inverted through dynamics. We derive this dynamic inversion from the perspective of feedback control, where the forward transformation is reused and dynamically interacts with fixed or random feedback to propagate error signals during the backward pass. Importantly, this scheme does not rely upon a second learning problem for feedback because accurate inversion is guaranteed through the network dynamics. We map these dynamics onto generic feedforward networks, and show that the resulting algorithm performs well on several supervised and unsupervised datasets. Finally, we discuss potential links between dynamic inversion and second-order optimization. Overall, our work introduces an alternative perspective on credit assignment in the brain, and proposes a special role for temporal dynamics and feedback control during learning.}
 }
 
 @article{podlaski2025high,
-  title={High capacity and dynamic accessibility in associative memory networks with context-dependent neuronal and synaptic gating},
+  title={<a href="https://link.aps.org/doi/10.1103/PhysRevX.15.011057">High capacity and dynamic accessibility in associative memory networks with context-dependent neuronal and synaptic gating</a>},
   author={Podlaski, William F and Agnes, Everton J and Vogels, Tim P},
   journal={Physical Review X},
   volume={15},
@@ -40,14 +43,12 @@
   pages={011057},
   year={2025},
   publisher={APS},
-  url = {https://link.aps.org/doi/10.1103/PhysRevX.15.011057},
-  doi = {https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.011057},
   pdf = {https://journals.aps.org/prx/pdf/10.1103/PhysRevX.15.011057},
   abstract={Biological memory is known to be flexible—memory formation and recall depend on factors such as the behavioral context of the organism. However, this property is often ignored in associative memory models, leaving it unclear how memories can be organized and recalled when subject to contextual control. Because of the lack of a rigorous analytical framework, it is also unknown how contextual control affects memory stability, storage capacity, and information content. Here, we bring the dynamic nature of memory to the fore by introducing a novel model of associative memory, which we refer to as the context-modular memory network. In our model, stored memory patterns are associated to one of several background network states, or contexts. Memories are accessible when their corresponding context is active, and are otherwise inaccessible. Context modulates the effective network connectivity by imposing a specific configuration of neuronal and synaptic gating—gated neurons (synapses) have their activity (weights) momentarily silenced, thereby reducing interference from memories belonging to other contexts. Memory patterns are randomly and independently chosen, while neuronal and synaptic gates may be selected randomly or optimized through a process of contextual synaptic refinement. Through analytic and numerical results, we show that context-modular memory networks can exhibit both improved memory capacity and differential control of memory stability with random gating (especially for neuronal gating). For contextual synaptic refinement, we devise a method in which synapses are gated off for a given context if they destabilize the memory patterns in that context, drastically improving memory capacity and enabling even more precise control over memory stability. Notably, synaptic refinement allows for patterns to be accessible in multiple contexts, stabilizing memory patterns even for weight matrices that alone do not contain any information about the memory patterns, such as Gaussian random matrices. Overall, our model integrates recent ideas about context-dependent memory organization with classic associative memory models and proposes a rigorous theory which can act as a framework for future work. Furthermore, our work carries important implications for the understanding of biological memory storage and recall in the brain, such as highlighting an intriguing trade-off between memory capacity and accessibility.}
 }
 
 @article{podlaski2024approximating,
-  title={Approximating nonlinear functions with latent boundaries in low-rank excitatory-inhibitory spiking networks},
+  title={<a href="https://direct.mit.edu/neco/article/36/5/803/120324/Approximating-Nonlinear-Functions-With-Latent">Approximating nonlinear functions with latent boundaries in low-rank excitatory-inhibitory spiking networks</a>},
   author={Podlaski, William F and Machens, Christian K},
   journal={Neural Computation},
   volume={36},
@@ -55,21 +56,22 @@
   pages={803--857},
   year={2024},
   publisher={MIT Press, One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…},
-  doi = {https://doi.org/10.1162/neco_a_01658},
   pdf = {direct.mit.edu/neco/article-pdf/36/5/803/2366854/neco_a_01658.pdf},
   abstract = {Deep feedforward and recurrent neural networks have become successful functional models of the brain, but they neglect obvious biological details such as spikes and Dale’s law. Here we argue that these details are crucial in order to understand how real neural circuits operate. Towards this aim, we put forth a new framework for spike-based computation in low-rank excitatory-inhibitory spiking networks. By considering populations with rank-1 connectivity, we cast each neuron’s spiking threshold as a boundary in a low-dimensional input-output space. We then show how the combined thresholds of a population of inhibitory neurons form a stable boundary in this space, and those of a population of excitatory neurons form an unstable boundary. Combining the two boundaries results in a rank-2 excitatory-inhibitory (EI) network with inhibition-stabilized dynamics at the intersection of the two boundaries. The computation of the resulting networks can be understood as the difference of two convex functions and is thereby capable of approximating arbitrary non-linear input-output mappings. We demonstrate several properties of these networks, including noise suppression and amplification, irregular activity and synaptic balance, as well as how they relate to rate network dynamics in the limit that the boundary becomes soft. Finally, while our work focuses on small networks (5-50 neurons), we discuss potential avenues for scaling up to much larger networks. Overall, our work proposes a new perspective on spiking networks that may serve as a starting point for a mechanistic understanding of biological spike-based computation.}
 }
 
 @article{nardin2021nonlinear,
-  title={Nonlinear computations in spiking neural networks through multiplicative synapses},
+  title={<a href="https://peercommunityjournal.org/item/10_24072_pcjournal_69/">Nonlinear computations in spiking neural networks through multiplicative synapses</a>},
   author={Nardin, Michele and Phillips, James W and Podlaski, William F and Keemink, Sander W},
   journal={Peer Community Journal},
   volume={1},
-  year={2021}
+  year={2021},
+  pdf={https://peercommunityjournal.org/item/10.24072/pcjournal.69.pdf},
+  abstract={The brain efficiently performs nonlinear computations through its intricate networks of spiking neurons, but how this is done remains elusive. While nonlinear computations can be implemented successfully in spiking neural networks, this requires supervised training and the resulting connectivity can be hard to interpret. In contrast, the required connectivity for any computation in the form of a linear dynamical system can be directly derived and understood with the spike coding network (SCN) framework. These networks also have biologically realistic activity patterns and are highly robust to cell death. Here we extend the SCN framework to directly implement any polynomial dynamical system, without the need for training. This results in networks requiring a mix of synapse types (fast, slow, and multiplicative), which we term multiplicative spike coding networks (mSCNs). Using mSCNs, we demonstrate how to directly derive the required connectivity for several nonlinear dynamical systems. We also show how to carry out higher-order polynomials with coupled networks that use only pair-wise multiplicative synapses, and provide expected numbers of connections for each synapse type. Overall, our work demonstrates a novel method for implementing nonlinear computations in spiking neural networks, while keeping the attractive features of standard SCNs (robustness, realistic activity patterns, and interpretable connectivity). Finally, we discuss the biological plausibility of our approach, and how the high accuracy and robustness of the approach may be of interest for neuromorphic computing.}
 }
 
 @article{martin2025three,
-  title={Three types of remapping with linear decoders: a population-geometric perspective},
+  title={<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013545">Three types of remapping with linear decoders: a population-geometric perspective</a>},
   author={Mart{\'\i}n-S{\'a}nchez, Guillermo and Machens, Christian K and Podlaski, William F},
   journal={PLOS Computational Biology},
   volume={21},
@@ -77,13 +79,12 @@
   pages={e1013545},
   year={2025},
   publisher={Public Library of Science, San Francisco, CA USA},
-  doi={https://doi.org/10.1371/journal.pcbi.1013545},
-  pdf={https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1013545&type=printable},
+  pdf={2025_martinsanchez_remapping.pdf},
   abstract={Hippocampal remapping, in which place cells form distinct activity maps across different environments, is a well-established phenomenon with a range of theoretical interpretations. Some theories propose that remapping helps to minimize interference between competing spatial memories, whereas others link it to shifts in an underlying latent state representation. However, how these interpretations of remapping relate to one another, and what types of activity changes they are compatible with, remains unclear. To unify and elucidate the mechanisms behind remapping, we here adopt a neural coding and population geometry perspective. Assuming that hippocampal population activity can be understood through a linearly-decodable latent space, we show that there are three possible mechanisms to induce remapping: (i) a true change in the mapping between neural and latent space, (ii) modulation of activity due to non-spatial mixed selectivity of place cells, or (iii) neural variability in the null space of the latent space that reflects a redundant code. We simulate and visualize examples of these remapping types in a network model, and relate the resultant remapping behavior to various models and experimental findings in the literature. Overall, our work serves as a unifying framework with which to visualize, understand, and compare the wide array of theories and experimental observations about remapping, and may serve as a testbed for understanding neural response variability under various experimental conditions.}
 }
 
 @InProceedings{pmlr-v282-podlaski26a,
-  title = 	 {Storing overlapping associative memories on latent manifolds in low-rank spiking networks},
+  title = 	 {<a href="https://proceedings.mlr.press/v282/podlaski26a.html">Storing overlapping associative memories on latent manifolds in low-rank spiking networks</a>},
   author =       {Podlaski, William F. and Machens, Christian K.},
   booktitle = 	 {Proceedings of the 4th (2025) and 3rd (2024) NeurIPS Workshops on Symmetry and Geometry in Neural Representations},
   pages = 	 {1219--1235},
@@ -94,9 +95,16 @@
   month = 	 {14 Dec 2024--07 Dec 2025},
   publisher =    {PMLR},
   pdf = 	 {https://raw.githubusercontent.com/mlresearch/v282/main/assets/podlaski26a/podlaski26a.pdf},
-  url = 	 {https://proceedings.mlr.press/v282/podlaski26a.html},
-  doi =    {https://proceedings.mlr.press/v282/podlaski26a.html},
   abstract = 	 {Associative memory architectures such as the Hopfield network have long been important conceptual and theoretical models for neuroscience and artificial intelligence. However, translating these abstract models into spiking neural networks has been surprisingly difficult. Indeed, much previous work has been restricted to storing a small number of primarily non-overlapping memories in large networks, thereby limiting their scalability. Here, we revisit the associative memory problem in light of recent advances in understanding spike-based computation. Using a recently-established geometric framework, we show that the spiking activity for a large class of all-inhibitory networks is situated on a low-dimensional, convex, and piecewise-linear manifold, with dynamics that move along the manifold. We then map the associative memory problem onto these dynamics, and demonstrate how the vertices of a hypercubic manifold can be used to store stable, overlapping activity patterns with a direct correspondence to the original Hopfield model. We propose several learning rules, and demonstrate a linear scaling of the storage capacity with the number of neurons, as well as robust pattern completion abilities. Overall, this work serves as a case study to demonstrate the effectiveness of using a geometrical perspective to design dynamics on neural manifolds, with implications for neuroscience and machine learning.}
 }
 
-
+@article{chintaluri2025ion,
+  title={<a href="https://www.biorxiv.org/content/10.1101/2025.10.03.680368v1.abstract">An ion channel omnimodel for standardized biophysical neuron modelling</a>},
+  author={Chintaluri, Chaitanya and Podlaski, William and Bozelos, Panos A and Gon{\c{c}}alves, Pedro J and Lueckmann, Jan-Matthis and Macke, Jakob H and Vogels, Tim P},
+  journal={bioRxiv},
+  pages={2025--10},
+  year={2025},
+  publisher={Cold Spring Harbor Laboratory},
+  pdf={https://www.biorxiv.org/content/10.1101/2025.10.03.680368v1.full.pdf},
+  abstract={Biophysical neuron modeling is an indispensable tool in neuroscience research, with the combination of diverse ion channel kinetics and morphologies being used to explain various single-neuron properties and responses. Despite this, there is no standard way of formulating ion channel models, making it challenging to relate models to one another and experimental data. Here, we revive the idea of a standard model for ion channels based on the Hodgkin-Huxley formulation, and apply it to a recently curated database of ion channel models. We demonstrate that this standard formulation, which we refer to as an omnimodel, accurately fits the majority of voltage-gated models in the database (over 3,000 models). It produces similar, if not identical, responses to voltage-clamp protocols in simulations where the ion channel omnimodels were used. Importantly, the standard formalism enables easy comparison of models based on parameter settings. It can also be used to make new observations about the space of ion channel kinetics found in neurons. Furthermore, it facilitates the inference of ion channel parameters from the responses to standard protocols. We provide an interactive platform to compare and select channel models, and encourage the community to use this standard formulation whenever possible, to facilitate understanding and comparison among models.}
+}
