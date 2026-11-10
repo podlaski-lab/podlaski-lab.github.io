@@ -10,14 +10,14 @@ nav_order: 5
 ### Contact Information
 
 * **Email:** [wf.podlaski@skku.edu](mailto:wf.podlaski@skku.edu)
-* **Office:** Room 86507 (5th Floor), N-Center, Sungkyunkwan University
+* **Office:** Room 86507 (5th Floor), N-Center, Sungkyunkwan University (Natural Sciences Campus)
 * **Bluesky:** [@billpod.bsky.social](https://bsky.app/profile/billpod.bsky.social)
 
 ---
 
 ### Address & Visiting the Lab
 
-#### Addresses  
+#### Address
 
 N Center (Bldg A)
 Center for Neuroscience Imaging Research (CNIR)
@@ -31,7 +31,7 @@ Sungkyunkwan University (Natural Sciences Campus)
 #### Getting Here
 
 * **By Subway:** Take Seoul Subway **Line 1 (Gyeongbu Line)** to **Sungkyunkwan University Station (성균관대역)**, Exit 2. The N-Center is a 10–15 minute walk across campus, or a 3-minute taxi ride from the station exit.
-* **By Car / Taxi:** Search for **"성균관대학교 자연과학캠퍼스 N센터"** or **"N-Center SKKU"** in KakaoMap, TMAP, or Naver Maps. Visitor parking is available in the underground lots adjacent to the N-Center.
+* **By Car / Taxi:** Search for **"성균관대학교 자연과학캠퍼스 N센터"** or **"N-Center SKKU"** in KakaoMap, TMAP, or Naver Maps. Visitor parking is available in the lots adjacent to the N-Center.
 
 ---
 
@@ -40,7 +40,7 @@ Sungkyunkwan University (Natural Sciences Campus)
 <div class="row my-4">
   <!-- Building Photo -->
   <div class="col-md-6 mb-3">
-    <img src="/assets/img/n_center.jpg" class="img-fluid rounded border shadow-sm" alt="N-Center Building, SKKU" style="width: 100%; height: 350px; object-fit: cover;">
+    <img src="/assets/img/n_center.jpeg" class="img-fluid rounded border shadow-sm" alt="N-Center Building, SKKU" style="width: 100%; height: 350px; object-fit: cover;">
     <small class="text-muted d-block text-center mt-1">N-Center, Natural Sciences Campus</small>
   </div>
   
