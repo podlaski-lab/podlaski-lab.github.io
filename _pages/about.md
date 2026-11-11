@@ -33,6 +33,17 @@ latest_posts:
     background: transparent !important;
     filter: none !important;
   }
+  
+  .profile {
+    width: 40% !important;         /* Adjust this percentage (default is 30%) */
+    max-width: 240px !important;   /* Hard upper limit so it doesn't get too large on wide monitors */
+    min-width: 160px !important;   /* Hard lower limit so it doesn't shrink into nothing */
+  }
+
+  .profile img {
+    width: 100% !important;
+    height: auto !important;
+  }
 </style>
 
 ### Welcome to the NET Lab
