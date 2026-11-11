@@ -23,6 +23,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<style>
+  .profile img,
+  .profile figure,
+  .profile .figure {
+    box-shadow: none !important;
+    border: none !important;
+    border-radius: 0 !important;
+    background: transparent !important;
+    filter: none !important;
+  }
+</style>
+
 ### Welcome to the NET Lab
 
 The **Neural Engineering & Theory (NET) Lab** is directed by Bill Podlaski and located at the **Center for Neuroscience Imaging Research (CNIR), Institute for Basic Science (IBS)** and the **Department of Brain Science and Engineering at Sungkyunkwan University (SKKU)** in Suwon, Republic of Korea.
