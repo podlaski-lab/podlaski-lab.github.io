@@ -15,7 +15,7 @@ nav_order: 3
   </div>
   <div class="col-sm-9">
     <h4>William (Bill) Podlaski, Ph.D.</h4>
-    <p class="text-muted mb-1">Assistant Professor, Dept. of Brain Science and Engineering, SKKU
+    <p class="text-muted mb-1">Assistant Professor, Dept. of Brain Science and Engineering, SKKU<br>
       Affiliated Investigator, Center for Neuroscience Imaging Research (CNIR), IBS</p>
     <p>
       Bill is interested in uncovering the computational principles behind brain computation. He received his BSc in Biological Sciences at Cornell University, a MSc in Computer Science from EPFL, and a DPhil (PhD) in computational neuroscience from the University of Oxford (advised by Tim Vogels). He did postdoctoral training at the Champalimaud Foundation (advised by Christian Machens).
