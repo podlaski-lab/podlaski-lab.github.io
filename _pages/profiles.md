@@ -23,7 +23,6 @@ nav_order: 3
     <div>
       <a href="mailto:wf.podlaski@skku.edu" class="btn btn-sm btn-outline-secondary"><i class="fas fa-envelope"></i> Email</a>
       <a href="[https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID](https://scholar.google.com/citations?user=37n2zf4AAAAJ&hl=en)" class="btn btn-sm btn-outline-secondary"><i class="ai ai-google-scholar"></i> Scholar</a>
-      <a href="[https://github.com/your-github](https://github.com/wpodlaski)" class="btn btn-sm btn-outline-secondary"><i class="fab fa-github"></i> GitHub</a>
     </div>
   </div>
 </div>
