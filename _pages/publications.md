@@ -2,7 +2,7 @@
 layout: page
 title: publications
 permalink: /publications/
-description: Publications by members of the NET Lab.
+description: Publications by members of the NET Lab. Includes journal articles, conference proceedings, and preprints.
 nav: true
 nav_order: 2
 ---
