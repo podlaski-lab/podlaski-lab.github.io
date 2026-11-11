@@ -6,7 +6,7 @@ subtitle: Dept. of Brain Science & Engineering (BSE), <a href='https://www.skku.
 
 profile:
   align: right
-  image: net_lab.jpeg
+  image: brain_logo.png
   image_circular: false # crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
