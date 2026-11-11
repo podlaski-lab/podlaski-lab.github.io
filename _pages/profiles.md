@@ -39,11 +39,11 @@ nav_order: 3
     </div>
   </div>
   <div class="col-sm-9">
-    <h4>Graduate Students & Postdocs</h4>
+    <h4>Graduate Students, Interns, & Postdocs</h4>
     <p class="text-muted">We have multiple open positions.</p>
     <p>
-      We are actively recruiting passionate Ph.D./M.S. students and postdoctoral fellows with backgrounds in electrical engineering, computer science, biomedical engineering, physics, or neuroscience. 
+      We are actively recruiting passionate students, interns, and research assistants with backgrounds in neuroscience or quantitative fields (physics, mathematics, computer science, engineering).
     </p>
-    <a href="{{ '/join/' | relative_url }}" class="btn btn-sm btn-primary">Application Instructions &rarr;</a>
+    <a href="{{ '/join/' | relative_url }}" class="btn btn-sm btn-primary">Learn more &rarr;</a>
   </div>
 </div>
