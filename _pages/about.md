@@ -41,5 +41,9 @@ The **Neural Engineering & Theory (NET) Lab** is directed by Bill Podlaski and l
 
 ### Motivation & Mission
 
-Our mission is to understand the algorithmic and physical principles of brain function and to develop novel engineering interfaces to monitor, decode, and modulate neural circuits. By bridging theoretical computational neuroscience, advanced neuroimaging, and neural recording technologies, we aim to translate fundamental discovery into neuroengineering solutions for clinical and cognitive applications.
+In the NET lab, we study neural network dynamics, representations, and computations in order to understand the mechanistic basis of cognition in the brain.
+
+Our methodology includes theoretical frameworks from physics and mathematics, along with engineering tools from control theory, optimization, and statistics, which we use to build computational models and analyze neural data.
+
+Through this work, we hope to uncover fundamental principles by which neural circuits compute, while also contributing towards the ongoing dialogue between neuroscience, AI, and bio-inspired computing.
 
