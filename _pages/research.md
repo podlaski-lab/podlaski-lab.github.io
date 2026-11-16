@@ -7,6 +7,18 @@ nav: true
 nav_order: 1
 ---
 
+<style>
+  .post img,
+  article img,
+  figure,
+  .figure {
+    box-shadow: none !important;
+    border: none !important;
+    border-radius: 0 !important;
+    background: transparent !important;
+  }
+</style>
+
 <div class="row mt-4">
   <div class="col-sm-4">
     <img src="{{ '/assets/img/lab-area-1.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Computational Neuroscience">
