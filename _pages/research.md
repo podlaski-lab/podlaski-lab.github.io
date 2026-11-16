@@ -9,7 +9,7 @@ nav_order: 1
 
 <div class="row mt-4">
   <div class="col-sm-4">
-    <img src="{{ '/assets/img/research/lab-area-1.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Computational Neuroscience">
+    <img src="{{ '/assets/img/lab-area-1.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Computational Neuroscience">
   </div>
   <div class="col-sm-8">
     <h3>1. Mechanistic and Functional Models of Neural Circuits</h3>
@@ -22,7 +22,7 @@ nav_order: 1
 
 <div class="row mt-4">
   <div class="col-sm-4">
-    <img src="{{ '/assets/img/research/lab-area-2.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Brain-Machine Interfaces">
+    <img src="{{ '/assets/img/lab-area-2.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Brain-Machine Interfaces">
   </div>
   <div class="col-sm-8">
     <h3>2. Spiking Neural Networks</h3>
@@ -35,7 +35,7 @@ nav_order: 1
 
 <div class="row mt-4">
   <div class="col-sm-4">
-    <img src="{{ '/assets/img/research/lab-area-3.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Neural Data Analysis">
+    <img src="{{ '/assets/img/lab-area-3.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Neural Data Analysis">
   </div>
   <div class="col-sm-8">
     <h3>3. Neural Data Analysis</h3>
@@ -48,7 +48,7 @@ nav_order: 1
 
 <div class="row mt-4">
   <div class="col-sm-4">
-    <img src="{{ '/assets/img/research/lab-area-4.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Neuro-AI & Machine Learning">
+    <img src="{{ '/assets/img/lab-area-4.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Neuro-AI & Machine Learning">
   </div>
   <div class="col-sm-8">
     <h3>4. Neuro-AI & Machine Learning</h3>
