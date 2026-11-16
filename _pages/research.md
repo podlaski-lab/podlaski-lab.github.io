@@ -40,7 +40,7 @@ nav_order: 1
   <div class="col-sm-8">
     <h3>3. Neural data analysis</h3>
     <p>
-      A key component of generating theories in neuroscience is testing them with data. We aim to test our theories and computational models by analyzing neural population data and working with experimental collaborators across a wide array of systems and scales.
+      A key component of generating theories in neuroscience is testing them with data. We aim to test our theories and computational models by analyzing neural population data, such as electrophysiology and calcium imaging, and working with experimental collaborators across a wide array of systems and scales.
     </p>
   </div>
 </div>
