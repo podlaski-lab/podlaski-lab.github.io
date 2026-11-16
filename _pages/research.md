@@ -24,7 +24,7 @@ nav_order: 1
     <img src="{{ '/assets/img/lab-area-1.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Computational Neuroscience">
   </div>
   <div class="col-sm-8">
-    <h3>Mechanistic and Functional Models of Neural Circuits</h3>
+    <h3>Mechanistic & Functional Models of Neural Circuits</h3>
     <p>
       How do neural network dynamics support cognition, and how are the dynamics and representations affected by biophysical details like spike-based communication, excitatory and inhibitory cell types, and energy constraints? We build and study recurrent network models of perception, decision making, and memory to answer these questions.
     </p>
