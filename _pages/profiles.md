@@ -11,7 +11,7 @@ nav_order: 3
 
 <div class="row align-items-center mb-5">
   <div class="col-sm-3 text-center">
-    <img src="{{ '/assets/img/members/pi.jpg' | relative_url }}" class="img-fluid rounded-circle z-depth-1" style="max-width: 180px;" alt="PI Photo">
+    <img src="{{ '/assets/img/bill.png' | relative_url }}" class="img-fluid rounded-circle z-depth-1" style="max-width: 180px;" alt="PI Photo">
   </div>
   <div class="col-sm-9">
     <h4>William (Bill) Podlaski, Ph.D.</h4>
