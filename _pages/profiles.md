@@ -18,7 +18,7 @@ nav_order: 3
     <p class="text-muted mb-1">Assistant Professor, Dept. of Brain Science and Engineering, SKKU<br>
       Affiliated Investigator, Center for Neuroscience Imaging Research (CNIR), IBS</p>
     <p>
-      Bill is interested in uncovering the computational principles behind brain computation. He received his BSc in Biological Sciences at Cornell University, a MSc in Computer Science from EPFL, and a DPhil (PhD) in computational neuroscience from the University of Oxford (advised by Tim Vogels). He did postdoctoral training at the Champalimaud Foundation (advised by Christian Machens).
+      Bill is a computational neuroscientist who spends his time thinking about brains, minds, and machines. He received his BSc in Biological Sciences at Cornell University, USA, a MSc in Computer Science from EPFL, Switzerland, and a DPhil (PhD) in Computational Neuroscience from the University of Oxford, UK (advised by Tim Vogels). He did postdoctoral training at the Champalimaud Foundation in Portugal (advised by Christian Machens). He has been an Assistant Professor at SKKU since fall 2026.
     </p>
     <div>
       <a href="mailto:wf.podlaski@skku.edu" class="btn btn-sm btn-outline-secondary"><i class="fas fa-envelope"></i> Email</a>
