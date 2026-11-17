@@ -9,8 +9,8 @@ nav_order: 4
 
 We are looking for motivated, mathematically-inclined researchers interested in questions in systems & computational neuroscience and NeuroAI.
 
-### Graduate Students (M.S., Ph.D., Integrated)
-Prospective graduate students should apply to join the NET lab through the **Department of Brain Science and Engineering (BSE) at Sungkyunkwan University**. Because there are no lab rotations, applicants must apply directly to a chosen lab with the PI's prior support.
+### Graduate Students (MSc, PhD, Integrated)
+Prospective graduate students should apply to join the NET lab through the **Department of Brain Science and Engineering (BSE) at Sungkyunkwan University**. Because there are no lab rotations, applicants must apply directly to a chosen lab with the PI's prior support. Admitted MSc, PhD, and integrated students are typically funded, receiving a monthly living stipend alongside tuition support/scholarships.
 * **Qualifications:** A quantitative background (computational neuroscience, physics, mathematics, engineering, computer science, or a related field), or a neuroscience/biology background paired with a strong motivation to learn the necessary math. Programming experience is essential.
 * **How to Apply:** Send an email to `wf.podlaski@skku.edu` with your CV and a concise statement (~1 page) explaining your research interests and why you want to join the NET lab, and contact information for 1–2 academic references (such as previous research advisors or course instructors, if available). Admissions run twice a year: please reach out around July–August (for Sept-Oct application period and Spring entry) or January-February (for Mar-Apr application period and Fall entry), though inquiries are welcome year-round.
 * **Official SKKU Admissions Info:** Application guidelines, exact deadlines, and eligibility criteria
