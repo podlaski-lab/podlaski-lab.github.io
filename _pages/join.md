@@ -16,7 +16,7 @@ Prospective graduate students should apply to join the NET lab through the **Dep
 * **Official SKKU Admissions Info:** Application guidelines, exact deadlines, and eligibility criteria
   * International applicants: See the SKKU [International Graduate Admissions portal](https://admission-global.skku.edu/eng/) (note that there are typically two application rounds per semester).
   * Korean / domestic applicants: See the SKKU [General Graduate Admissions portal](https://gradschool.skku.edu/grad/index.htm).
-  * Department info: Visit the Department of Brain Science and Engineering [English website](https://ics.skku.edu/eng_icon/bse_science_intro.do) or (Korean website)[https://bse.skku.edu/bse/index.do] for program and curriculum details.
+  * Department info: Visit the [Department of Brain Science and Engineering](https://ics.skku.edu/eng_icon/bse_science_intro.do) ([뇌과학·뇌공학과](https://bse.skku.edu/bse/index.do)) for program and curriculum details.
 
 ### Research assistants, interns, and visitors
 We regularly take on students and independent researchers as RAs and interns for shorter-term projects. Please get in touch by sending your CV along with a brief note about your interests and availability. Preference is given to students already based in Korea, though exceptions can be made.
