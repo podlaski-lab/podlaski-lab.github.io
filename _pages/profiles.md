@@ -14,7 +14,7 @@ nav_order: 3
     <img src="{{ '/assets/img/bill.png' | relative_url }}" class="img-fluid rounded-circle z-depth-1" style="max-width: 180px;" alt="PI Photo">
   </div>
   <div class="col-sm-9">
-    <h4>William (Bill) Podlaski, Ph.D.</h4>
+    <h4>William (Bill) Podlaski</h4>
     <p class="text-muted mb-1">Assistant Professor, Dept. of Brain Science and Engineering, SKKU<br>
       Affiliated Investigator, Center for Neuroscience Imaging Research (CNIR), IBS</p>
     <p>
